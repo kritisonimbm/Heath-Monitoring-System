@@ -1,4 +1,4 @@
-# 🏥 Health Monitoring System Using Arduino
+# Health Monitoring System Using Arduino
 
 ## Objective
 To design and implement a **Health Monitoring System** using an **Arduino microcontroller** that can **measure temperature, detect nearby objects, and monitor distance**.  
